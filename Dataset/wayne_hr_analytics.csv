@@ -1,0 +1,217 @@
+Department,Employee_Level,Date,Retention_Rate_Pct,Training_Hours_Annual,Performance_Rating,Salary_Band,Benefits_Utilization_Pct,Security_Clearance_Level,Internal_Promotions,Diversity_Index,Employee_Satisfaction_Score
+Wayne Aerospace,Entry Level,2023-01,82.3,156,3.8,45000-65000,78.5,Level 1,12,0.72,7.2
+Wayne Aerospace,Mid Level,2023-01,89.7,142,4.1,65000-95000,82.1,Level 2,8,0.68,7.8
+Wayne Aerospace,Senior Level,2023-01,94.2,98,4.3,95000-140000,87.3,Level 3,5,0.61,8.1
+Wayne Aerospace,Executive,2023-01,96.8,76,4.5,140000+,91.2,Level 4,2,0.54,8.4
+Wayne Aerospace,Entry Level,2023-02,83.1,158,3.9,45000-65000,79.2,Level 1,14,0.73,7.3
+Wayne Aerospace,Mid Level,2023-02,90.2,144,4.2,65000-95000,82.8,Level 2,9,0.69,7.9
+Wayne Aerospace,Senior Level,2023-02,94.7,101,4.4,95000-140000,87.9,Level 3,6,0.62,8.2
+Wayne Aerospace,Executive,2023-02,97.1,78,4.6,140000+,91.8,Level 4,2,0.55,8.5
+Wayne Aerospace,Entry Level,2023-03,84.0,160,4.0,45000-65000,80.1,Level 1,16,0.74,7.4
+Wayne Aerospace,Mid Level,2023-03,90.8,146,4.3,65000-95000,83.4,Level 2,10,0.70,8.0
+Wayne Aerospace,Senior Level,2023-03,95.1,103,4.5,95000-140000,88.5,Level 3,7,0.63,8.3
+Wayne Aerospace,Executive,2023-03,97.4,80,4.7,140000+,92.3,Level 4,3,0.56,8.6
+Wayne Aerospace,Entry Level,2023-04,84.8,162,4.1,45000-65000,80.9,Level 1,18,0.75,7.5
+Wayne Aerospace,Mid Level,2023-04,91.3,148,4.4,65000-95000,84.1,Level 2,11,0.71,8.1
+Wayne Aerospace,Senior Level,2023-04,95.6,105,4.6,95000-140000,89.1,Level 3,8,0.64,8.4
+Wayne Aerospace,Executive,2023-04,97.7,82,4.8,140000+,92.9,Level 4,3,0.57,8.7
+Wayne Aerospace,Entry Level,2023-05,85.5,164,4.2,45000-65000,81.7,Level 1,20,0.76,7.6
+Wayne Aerospace,Mid Level,2023-05,91.9,150,4.5,65000-95000,84.7,Level 2,12,0.72,8.2
+Wayne Aerospace,Senior Level,2023-05,96.0,107,4.7,95000-140000,89.7,Level 3,9,0.65,8.5
+Wayne Aerospace,Executive,2023-05,98.0,84,4.9,140000+,93.4,Level 4,4,0.58,8.8
+Wayne Aerospace,Entry Level,2023-06,86.2,166,4.3,45000-65000,82.4,Level 1,22,0.77,7.7
+Wayne Aerospace,Mid Level,2023-06,92.4,152,4.6,65000-95000,85.3,Level 2,13,0.73,8.3
+Wayne Aerospace,Senior Level,2023-06,96.5,109,4.8,95000-140000,90.3,Level 3,10,0.66,8.6
+Wayne Aerospace,Executive,2023-06,98.3,86,5.0,140000+,94.0,Level 4,4,0.59,8.9
+Wayne Aerospace,Entry Level,2023-07,86.9,168,4.4,45000-65000,83.2,Level 1,24,0.78,7.8
+Wayne Aerospace,Mid Level,2023-07,93.0,154,4.7,65000-95000,86.0,Level 2,14,0.74,8.4
+Wayne Aerospace,Senior Level,2023-07,97.0,111,4.9,95000-140000,90.9,Level 3,11,0.67,8.7
+Wayne Aerospace,Executive,2023-07,98.6,88,5.1,140000+,94.5,Level 4,5,0.60,9.0
+Wayne Aerospace,Entry Level,2023-08,87.6,170,4.5,45000-65000,83.9,Level 1,26,0.79,7.9
+Wayne Aerospace,Mid Level,2023-08,93.5,156,4.8,65000-95000,86.6,Level 2,15,0.75,8.5
+Wayne Aerospace,Senior Level,2023-08,97.4,113,5.0,95000-140000,91.5,Level 3,12,0.68,8.8
+Wayne Aerospace,Executive,2023-08,98.9,90,5.2,140000+,95.1,Level 4,5,0.61,9.1
+Wayne Aerospace,Entry Level,2023-09,88.3,172,4.6,45000-65000,84.7,Level 1,28,0.80,8.0
+Wayne Aerospace,Mid Level,2023-09,94.1,158,4.9,65000-95000,87.3,Level 2,16,0.76,8.6
+Wayne Aerospace,Senior Level,2023-09,97.9,115,5.1,95000-140000,92.1,Level 3,13,0.69,8.9
+Wayne Aerospace,Executive,2023-09,99.2,92,5.3,140000+,95.6,Level 4,6,0.62,9.2
+Wayne Aerospace,Entry Level,2023-10,89.0,174,4.7,45000-65000,85.4,Level 1,30,0.81,8.1
+Wayne Aerospace,Mid Level,2023-10,94.6,160,5.0,65000-95000,87.9,Level 2,17,0.77,8.7
+Wayne Aerospace,Senior Level,2023-10,98.3,117,5.2,95000-140000,92.7,Level 3,14,0.70,9.0
+Wayne Aerospace,Executive,2023-10,99.5,94,5.4,140000+,96.2,Level 4,6,0.63,9.3
+Wayne Aerospace,Entry Level,2023-11,89.7,176,4.8,45000-65000,86.1,Level 1,32,0.82,8.2
+Wayne Aerospace,Mid Level,2023-11,95.2,162,5.1,65000-95000,88.6,Level 2,18,0.78,8.8
+Wayne Aerospace,Senior Level,2023-11,98.8,119,5.3,95000-140000,93.3,Level 3,15,0.71,9.1
+Wayne Aerospace,Executive,2023-11,99.8,96,5.5,140000+,96.7,Level 4,7,0.64,9.4
+Wayne Aerospace,Entry Level,2023-12,90.4,178,4.9,45000-65000,86.9,Level 1,34,0.83,8.3
+Wayne Aerospace,Mid Level,2023-12,95.7,164,5.2,65000-95000,89.2,Level 2,19,0.79,8.9
+Wayne Aerospace,Senior Level,2023-12,99.2,121,5.4,95000-140000,93.9,Level 3,16,0.72,9.2
+Wayne Aerospace,Executive,2023-12,100.0,98,5.6,140000+,97.3,Level 4,7,0.65,9.5
+Wayne Aerospace,Entry Level,2024-01,91.1,180,5.0,48000-68000,87.6,Level 1,36,0.84,8.4
+Wayne Aerospace,Mid Level,2024-01,96.3,166,5.3,68000-98000,89.9,Level 2,20,0.80,9.0
+Wayne Aerospace,Senior Level,2024-01,99.7,123,5.5,98000-145000,94.5,Level 3,17,0.73,9.3
+Wayne Aerospace,Executive,2024-01,100.0,100,5.7,145000+,97.8,Level 4,8,0.66,9.6
+Wayne Aerospace,Entry Level,2024-02,91.8,182,5.1,48000-68000,88.3,Level 1,38,0.85,8.5
+Wayne Aerospace,Mid Level,2024-02,96.8,168,5.4,68000-98000,90.5,Level 2,21,0.81,9.1
+Wayne Aerospace,Senior Level,2024-02,100.0,125,5.6,98000-145000,95.1,Level 3,18,0.74,9.4
+Wayne Aerospace,Executive,2024-02,100.0,102,5.8,145000+,98.4,Level 4,8,0.67,9.7
+Wayne Aerospace,Entry Level,2024-03,92.5,184,5.2,48000-68000,89.0,Level 1,40,0.86,8.6
+Wayne Aerospace,Mid Level,2024-03,97.4,170,5.5,68000-98000,91.2,Level 2,22,0.82,9.2
+Wayne Aerospace,Senior Level,2024-03,100.0,127,5.7,98000-145000,95.7,Level 3,19,0.75,9.5
+Wayne Aerospace,Executive,2024-03,100.0,104,5.9,145000+,98.9,Level 4,9,0.68,9.8
+Wayne Aerospace,Entry Level,2024-04,93.2,186,5.3,48000-68000,89.7,Level 1,42,0.87,8.7
+Wayne Aerospace,Mid Level,2024-04,97.9,172,5.6,68000-98000,91.8,Level 2,23,0.83,9.3
+Wayne Aerospace,Senior Level,2024-04,100.0,129,5.8,98000-145000,96.3,Level 3,20,0.76,9.6
+Wayne Aerospace,Executive,2024-04,100.0,106,6.0,145000+,99.5,Level 4,9,0.69,9.9
+Wayne Aerospace,Entry Level,2024-05,93.9,188,5.4,48000-68000,90.4,Level 1,44,0.88,8.8
+Wayne Aerospace,Mid Level,2024-05,98.5,174,5.7,68000-98000,92.5,Level 2,24,0.84,9.4
+Wayne Aerospace,Senior Level,2024-05,100.0,131,5.9,98000-145000,96.9,Level 3,21,0.77,9.7
+Wayne Aerospace,Executive,2024-05,100.0,108,6.1,145000+,100.0,Level 4,10,0.70,10.0
+Wayne Aerospace,Entry Level,2024-06,94.6,190,5.5,48000-68000,91.1,Level 1,46,0.89,8.9
+Wayne Aerospace,Mid Level,2024-06,99.0,176,5.8,68000-98000,93.1,Level 2,25,0.85,9.5
+Wayne Aerospace,Senior Level,2024-06,100.0,133,6.0,98000-145000,97.5,Level 3,22,0.78,9.8
+Wayne Aerospace,Executive,2024-06,100.0,110,6.2,145000+,100.0,Level 4,10,0.71,10.0
+Wayne Biotech,Entry Level,2023-01,85.7,142,3.9,42000-62000,81.3,Level 1,8,0.74,7.5
+Wayne Biotech,Mid Level,2023-01,91.4,128,4.2,62000-88000,85.7,Level 2,6,0.70,8.1
+Wayne Biotech,Senior Level,2023-01,95.8,94,4.4,88000-125000,89.2,Level 2,4,0.65,8.4
+Wayne Biotech,Executive,2023-01,97.6,72,4.6,125000+,92.8,Level 3,1,0.58,8.7
+Wayne Biotech,Entry Level,2023-02,86.4,144,4.0,42000-62000,82.0,Level 1,9,0.75,7.6
+Wayne Biotech,Mid Level,2023-02,92.0,130,4.3,62000-88000,86.4,Level 2,7,0.71,8.2
+Wayne Biotech,Senior Level,2023-02,96.3,96,4.5,88000-125000,89.9,Level 2,5,0.66,8.5
+Wayne Biotech,Executive,2023-02,98.0,74,4.7,125000+,93.4,Level 3,2,0.59,8.8
+Wayne Biotech,Entry Level,2023-03,87.1,146,4.1,42000-62000,82.7,Level 1,10,0.76,7.7
+Wayne Biotech,Mid Level,2023-03,92.6,132,4.4,62000-88000,87.1,Level 2,8,0.72,8.3
+Wayne Biotech,Senior Level,2023-03,96.8,98,4.6,88000-125000,90.6,Level 2,6,0.67,8.6
+Wayne Biotech,Executive,2023-03,98.4,76,4.8,125000+,94.1,Level 3,2,0.60,8.9
+Wayne Biotech,Entry Level,2023-04,87.8,148,4.2,42000-62000,83.4,Level 1,11,0.77,7.8
+Wayne Biotech,Mid Level,2023-04,93.2,134,4.5,62000-88000,87.8,Level 2,9,0.73,8.4
+Wayne Biotech,Senior Level,2023-04,97.3,100,4.7,88000-125000,91.3,Level 2,7,0.68,8.7
+Wayne Biotech,Executive,2023-04,98.8,78,4.9,125000+,94.7,Level 3,3,0.61,9.0
+Wayne Biotech,Entry Level,2023-05,88.5,150,4.3,42000-62000,84.1,Level 1,12,0.78,7.9
+Wayne Biotech,Mid Level,2023-05,93.8,136,4.6,62000-88000,88.5,Level 2,10,0.74,8.5
+Wayne Biotech,Senior Level,2023-05,97.8,102,4.8,88000-125000,92.0,Level 2,8,0.69,8.8
+Wayne Biotech,Executive,2023-05,99.2,80,5.0,125000+,95.4,Level 3,3,0.62,9.1
+Wayne Biotech,Entry Level,2023-06,89.2,152,4.4,42000-62000,84.8,Level 1,13,0.79,8.0
+Wayne Biotech,Mid Level,2023-06,94.4,138,4.7,62000-88000,89.2,Level 2,11,0.75,8.6
+Wayne Biotech,Senior Level,2023-06,98.3,104,4.9,88000-125000,92.7,Level 2,9,0.70,8.9
+Wayne Biotech,Executive,2023-06,99.6,82,5.1,125000+,96.0,Level 3,4,0.63,9.2
+Wayne Biotech,Entry Level,2023-07,89.9,154,4.5,42000-62000,85.5,Level 1,14,0.80,8.1
+Wayne Biotech,Mid Level,2023-07,95.0,140,4.8,62000-88000,89.9,Level 2,12,0.76,8.7
+Wayne Biotech,Senior Level,2023-07,98.8,106,5.0,88000-125000,93.4,Level 2,10,0.71,9.0
+Wayne Biotech,Executive,2023-07,100.0,84,5.2,125000+,96.7,Level 3,4,0.64,9.3
+Wayne Biotech,Entry Level,2023-08,90.6,156,4.6,42000-62000,86.2,Level 1,15,0.81,8.2
+Wayne Biotech,Mid Level,2023-08,95.6,142,4.9,62000-88000,90.6,Level 2,13,0.77,8.8
+Wayne Biotech,Senior Level,2023-08,99.3,108,5.1,88000-125000,94.1,Level 2,11,0.72,9.1
+Wayne Biotech,Executive,2023-08,100.0,86,5.3,125000+,97.3,Level 3,5,0.65,9.4
+Wayne Biotech,Entry Level,2023-09,91.3,158,4.7,42000-62000,86.9,Level 1,16,0.82,8.3
+Wayne Biotech,Mid Level,2023-09,96.2,144,5.0,62000-88000,91.3,Level 2,14,0.78,8.9
+Wayne Biotech,Senior Level,2023-09,99.8,110,5.2,88000-125000,94.8,Level 2,12,0.73,9.2
+Wayne Biotech,Executive,2023-09,100.0,88,5.4,125000+,98.0,Level 3,5,0.66,9.5
+Wayne Biotech,Entry Level,2023-10,92.0,160,4.8,42000-62000,87.6,Level 1,17,0.83,8.4
+Wayne Biotech,Mid Level,2023-10,96.8,146,5.1,62000-88000,92.0,Level 2,15,0.79,9.0
+Wayne Biotech,Senior Level,2023-10,100.0,112,5.3,88000-125000,95.5,Level 2,13,0.74,9.3
+Wayne Biotech,Executive,2023-10,100.0,90,5.5,125000+,98.6,Level 3,6,0.67,9.6
+Wayne Biotech,Entry Level,2023-11,92.7,162,4.9,42000-62000,88.3,Level 1,18,0.84,8.5
+Wayne Biotech,Mid Level,2023-11,97.4,148,5.2,62000-88000,92.7,Level 2,16,0.80,9.1
+Wayne Biotech,Senior Level,2023-11,100.0,114,5.4,88000-125000,96.2,Level 2,14,0.75,9.4
+Wayne Biotech,Executive,2023-11,100.0,92,5.6,125000+,99.3,Level 3,6,0.68,9.7
+Wayne Biotech,Entry Level,2023-12,93.4,164,5.0,42000-62000,89.0,Level 1,19,0.85,8.6
+Wayne Biotech,Mid Level,2023-12,98.0,150,5.3,62000-88000,93.4,Level 2,17,0.81,9.2
+Wayne Biotech,Senior Level,2023-12,100.0,116,5.5,88000-125000,96.9,Level 2,15,0.76,9.5
+Wayne Biotech,Executive,2023-12,100.0,94,5.7,125000+,99.9,Level 3,7,0.69,9.8
+Wayne Biotech,Entry Level,2024-01,94.1,166,5.1,44000-64000,89.7,Level 1,20,0.86,8.7
+Wayne Biotech,Mid Level,2024-01,98.6,152,5.4,64000-90000,94.1,Level 2,18,0.82,9.3
+Wayne Biotech,Senior Level,2024-01,100.0,118,5.6,90000-128000,97.6,Level 2,16,0.77,9.6
+Wayne Biotech,Executive,2024-01,100.0,96,5.8,128000+,100.0,Level 3,7,0.70,9.9
+Wayne Biotech,Entry Level,2024-02,94.8,168,5.2,44000-64000,90.4,Level 1,21,0.87,8.8
+Wayne Biotech,Mid Level,2024-02,99.2,154,5.5,64000-90000,94.8,Level 2,19,0.83,9.4
+Wayne Biotech,Senior Level,2024-02,100.0,120,5.7,90000-128000,98.3,Level 2,17,0.78,9.7
+Wayne Biotech,Executive,2024-02,100.0,98,5.9,128000+,100.0,Level 3,8,0.71,10.0
+Wayne Biotech,Entry Level,2024-03,95.5,170,5.3,44000-64000,91.1,Level 1,22,0.88,8.9
+Wayne Biotech,Mid Level,2024-03,99.8,156,5.6,64000-90000,95.5,Level 2,20,0.84,9.5
+Wayne Biotech,Senior Level,2024-03,100.0,122,5.8,90000-128000,99.0,Level 2,18,0.79,9.8
+Wayne Biotech,Executive,2024-03,100.0,100,6.0,128000+,100.0,Level 3,8,0.72,10.0
+Wayne Biotech,Entry Level,2024-04,96.2,172,5.4,44000-64000,91.8,Level 1,23,0.89,9.0
+Wayne Biotech,Mid Level,2024-04,100.0,158,5.7,64000-90000,96.2,Level 2,21,0.85,9.6
+Wayne Biotech,Senior Level,2024-04,100.0,124,5.9,90000-128000,99.7,Level 2,19,0.80,9.9
+Wayne Biotech,Executive,2024-04,100.0,102,6.1,128000+,100.0,Level 3,9,0.73,10.0
+Wayne Biotech,Entry Level,2024-05,96.9,174,5.5,44000-64000,92.5,Level 1,24,0.90,9.1
+Wayne Biotech,Mid Level,2024-05,100.0,160,5.8,64000-90000,96.9,Level 2,22,0.86,9.7
+Wayne Biotech,Senior Level,2024-05,100.0,126,6.0,90000-128000,100.0,Level 2,20,0.81,10.0
+Wayne Biotech,Executive,2024-05,100.0,104,6.2,128000+,100.0,Level 3,9,0.74,10.0
+Wayne Biotech,Entry Level,2024-06,97.6,176,5.6,44000-64000,93.2,Level 1,25,0.91,9.2
+Wayne Biotech,Mid Level,2024-06,100.0,162,5.9,64000-90000,97.6,Level 2,23,0.87,9.8
+Wayne Biotech,Senior Level,2024-06,100.0,128,6.1,90000-128000,100.0,Level 2,21,0.82,10.0
+Wayne Biotech,Executive,2024-06,100.0,106,6.3,128000+,100.0,Level 3,10,0.75,10.0
+Wayne Applied Sciences,Entry Level,2023-01,78.9,168,3.6,38000-58000,76.2,Level 1,5,0.68,6.8
+Wayne Applied Sciences,Mid Level,2023-01,86.3,154,3.9,58000-82000,80.7,Level 2,4,0.64,7.4
+Wayne Applied Sciences,Senior Level,2023-01,92.1,110,4.1,82000-115000,84.9,Level 3,3,0.58,7.7
+Wayne Applied Sciences,Executive,2023-01,95.4,88,4.3,115000+,88.6,Level 4,1,0.51,8.0
+Wayne Applied Sciences,Entry Level,2023-02,79.6,170,3.7,38000-58000,76.9,Level 1,6,0.69,6.9
+Wayne Applied Sciences,Mid Level,2023-02,87.0,156,4.0,58000-82000,81.4,Level 2,5,0.65,7.5
+Wayne Applied Sciences,Senior Level,2023-02,92.7,112,4.2,82000-115000,85.6,Level 3,4,0.59,7.8
+Wayne Applied Sciences,Executive,2023-02,95.9,90,4.4,115000+,89.3,Level 4,2,0.52,8.1
+Wayne Applied Sciences,Entry Level,2023-03,80.3,172,3.8,38000-58000,77.6,Level 1,7,0.70,7.0
+Wayne Applied Sciences,Mid Level,2023-03,87.7,158,4.1,58000-82000,82.1,Level 2,6,0.66,7.6
+Wayne Applied Sciences,Senior Level,2023-03,93.3,114,4.3,82000-115000,86.3,Level 3,5,0.60,7.9
+Wayne Applied Sciences,Executive,2023-03,96.4,92,4.5,115000+,90.0,Level 4,2,0.53,8.2
+Wayne Applied Sciences,Entry Level,2023-04,81.0,174,3.9,38000-58000,78.3,Level 1,8,0.71,7.1
+Wayne Applied Sciences,Mid Level,2023-04,88.4,160,4.2,58000-82000,82.8,Level 2,7,0.67,7.7
+Wayne Applied Sciences,Senior Level,2023-04,93.9,116,4.4,82000-115000,87.0,Level 3,6,0.61,8.0
+Wayne Applied Sciences,Executive,2023-04,96.9,94,4.6,115000+,90.7,Level 4,3,0.54,8.3
+Wayne Applied Sciences,Entry Level,2023-05,81.7,176,4.0,38000-58000,79.0,Level 1,9,0.72,7.2
+Wayne Applied Sciences,Mid Level,2023-05,89.1,162,4.3,58000-82000,83.5,Level 2,8,0.68,7.8
+Wayne Applied Sciences,Senior Level,2023-05,94.5,118,4.5,82000-115000,87.7,Level 3,7,0.62,8.1
+Wayne Applied Sciences,Executive,2023-05,97.4,96,4.7,115000+,91.4,Level 4,3,0.55,8.4
+Wayne Applied Sciences,Entry Level,2023-06,82.4,178,4.1,38000-58000,79.7,Level 1,10,0.73,7.3
+Wayne Applied Sciences,Mid Level,2023-06,89.8,164,4.4,58000-82000,84.2,Level 2,9,0.69,7.9
+Wayne Applied Sciences,Senior Level,2023-06,95.1,120,4.6,82000-115000,88.4,Level 3,8,0.63,8.2
+Wayne Applied Sciences,Executive,2023-06,97.9,98,4.8,115000+,92.1,Level 4,4,0.56,8.5
+Wayne Applied Sciences,Entry Level,2023-07,83.1,180,4.2,38000-58000,80.4,Level 1,11,0.74,7.4
+Wayne Applied Sciences,Mid Level,2023-07,90.5,166,4.5,58000-82000,84.9,Level 2,10,0.70,8.0
+Wayne Applied Sciences,Senior Level,2023-07,95.7,122,4.7,82000-115000,89.1,Level 3,9,0.64,8.3
+Wayne Applied Sciences,Executive,2023-07,98.4,100,4.9,115000+,92.8,Level 4,4,0.57,8.6
+Wayne Applied Sciences,Entry Level,2023-08,83.8,182,4.3,38000-58000,81.1,Level 1,12,0.75,7.5
+Wayne Applied Sciences,Mid Level,2023-08,91.2,168,4.6,58000-82000,85.6,Level 2,11,0.71,8.1
+Wayne Applied Sciences,Senior Level,2023-08,96.3,124,4.8,82000-115000,89.8,Level 3,10,0.65,8.4
+Wayne Applied Sciences,Executive,2023-08,98.9,102,5.0,115000+,93.5,Level 4,5,0.58,8.7
+Wayne Applied Sciences,Entry Level,2023-09,84.5,184,4.4,38000-58000,81.8,Level 1,13,0.76,7.6
+Wayne Applied Sciences,Mid Level,2023-09,91.9,170,4.7,58000-82000,86.3,Level 2,12,0.72,8.2
+Wayne Applied Sciences,Senior Level,2023-09,96.9,126,4.9,82000-115000,90.5,Level 3,11,0.66,8.5
+Wayne Applied Sciences,Executive,2023-09,99.4,104,5.1,115000+,94.2,Level 4,5,0.59,8.8
+Wayne Applied Sciences,Entry Level,2023-10,85.2,186,4.5,38000-58000,82.5,Level 1,14,0.77,7.7
+Wayne Applied Sciences,Mid Level,2023-10,92.6,172,4.8,58000-82000,87.0,Level 2,13,0.73,8.3
+Wayne Applied Sciences,Senior Level,2023-10,97.5,128,5.0,82000-115000,91.2,Level 3,12,0.67,8.6
+Wayne Applied Sciences,Executive,2023-10,99.9,106,5.2,115000+,94.9,Level 4,6,0.60,8.9
+Wayne Applied Sciences,Entry Level,2023-11,85.9,188,4.6,38000-58000,83.2,Level 1,15,0.78,7.8
+Wayne Applied Sciences,Mid Level,2023-11,93.3,174,4.9,58000-82000,87.7,Level 2,14,0.74,8.4
+Wayne Applied Sciences,Senior Level,2023-11,98.1,130,5.1,82000-115000,91.9,Level 3,13,0.68,8.7
+Wayne Applied Sciences,Executive,2023-11,100.0,108,5.3,115000+,95.6,Level 4,6,0.61,9.0
+Wayne Applied Sciences,Entry Level,2023-12,86.6,190,4.7,38000-58000,83.9,Level 1,16,0.79,7.9
+Wayne Applied Sciences,Mid Level,2023-12,94.0,176,5.0,58000-82000,88.4,Level 2,15,0.75,8.5
+Wayne Applied Sciences,Senior Level,2023-12,98.7,132,5.2,82000-115000,92.6,Level 3,14,0.69,8.8
+Wayne Applied Sciences,Executive,2023-12,100.0,110,5.4,115000+,96.3,Level 4,7,0.62,9.1
+Wayne Applied Sciences,Entry Level,2024-01,87.3,192,4.8,40000-60000,84.6,Level 1,17,0.80,8.0
+Wayne Applied Sciences,Mid Level,2024-01,94.7,178,5.1,60000-84000,89.1,Level 2,16,0.76,8.6
+Wayne Applied Sciences,Senior Level,2024-01,99.3,134,5.3,84000-118000,93.3,Level 3,15,0.70,8.9
+Wayne Applied Sciences,Executive,2024-01,100.0,112,5.5,118000+,97.0,Level 4,7,0.63,9.2
+Wayne Applied Sciences,Entry Level,2024-02,88.0,194,4.9,40000-60000,85.3,Level 1,18,0.81,8.1
+Wayne Applied Sciences,Mid Level,2024-02,95.4,180,5.2,60000-84000,89.8,Level 2,17,0.77,8.7
+Wayne Applied Sciences,Senior Level,2024-02,99.9,136,5.4,84000-118000,94.0,Level 3,16,0.71,9.0
+Wayne Applied Sciences,Executive,2024-02,100.0,114,5.6,118000+,97.7,Level 4,8,0.64,9.3
+Wayne Applied Sciences,Entry Level,2024-03,88.7,196,5.0,40000-60000,86.0,Level 1,19,0.82,8.2
+Wayne Applied Sciences,Mid Level,2024-03,96.1,182,5.3,60000-84000,90.5,Level 2,18,0.78,8.8
+Wayne Applied Sciences,Senior Level,2024-03,100.0,138,5.5,84000-118000,94.7,Level 3,17,0.72,9.1
+Wayne Applied Sciences,Executive,2024-03,100.0,116,5.7,118000+,98.4,Level 4,8,0.65,9.4
+Wayne Applied Sciences,Entry Level,2024-04,89.4,198,5.1,40000-60000,86.7,Level 1,20,0.83,8.3
+Wayne Applied Sciences,Mid Level,2024-04,96.8,184,5.4,60000-84000,91.2,Level 2,19,0.79,8.9
+Wayne Applied Sciences,Senior Level,2024-04,100.0,140,5.6,84000-118000,95.4,Level 3,18,0.73,9.2
+Wayne Applied Sciences,Executive,2024-04,100.0,118,5.8,118000+,99.1,Level 4,9,0.66,9.5
+Wayne Applied Sciences,Entry Level,2024-05,90.1,200,5.2,40000-60000,87.4,Level 1,21,0.84,8.4
+Wayne Applied Sciences,Mid Level,2024-05,97.5,186,5.5,60000-84000,91.9,Level 2,20,0.80,9.0
+Wayne Applied Sciences,Senior Level,2024-05,100.0,142,5.7,84000-118000,96.1,Level 3,19,0.74,9.3
+Wayne Applied Sciences,Executive,2024-05,100.0,120,5.9,118000+,99.8,Level 4,9,0.67,9.6
+Wayne Applied Sciences,Entry Level,2024-06,90.8,202,5.3,40000-60000,88.1,Level 1,22,0.85,8.5
+Wayne Applied Sciences,Mid Level,2024-06,98.2,188,5.6,60000-84000,92.6,Level 2,21,0.81,9.1
+Wayne Applied Sciences,Senior Level,2024-06,100.0,144,5.8,84000-118000,96.8,Level 3,20,0.75,9.4
+Wayne Applied Sciences,Executive,2024-06,100.0,122,6.0,118000+,100.0,Level 4,10,0.68,9.7

@@ -1,0 +1,91 @@
+Facility_Location,Product_Line,Date,Monthly_Production_Volume,Supply_Chain_Disruptions,Cost_Per_Unit,Quality_Score_Pct,Sustainability_Rating,Vendor_Count,Lead_Time_Days,Inventory_Turnover,Carbon_Footprint_MT
+Gotham_Main,Aerospace Components,2023-01,125000,2,245.50,94.2,A-,45,18,6.8,1250.5
+Gotham_Main,Aerospace Components,2023-02,128000,1,242.30,94.8,A-,46,17,7.1,1268.4
+Gotham_Main,Aerospace Components,2023-03,132000,3,248.70,93.5,B+,44,19,6.9,1289.7
+Gotham_Main,Aerospace Components,2023-04,134000,2,246.20,94.6,A-,45,18,7.2,1301.2
+Gotham_Main,Aerospace Components,2023-05,138000,1,244.80,95.1,A-,47,16,7.4,1324.8
+Gotham_Main,Aerospace Components,2023-06,142000,2,247.30,94.3,A-,46,17,7.3,1345.6
+Gotham_Main,Aerospace Components,2023-07,145000,3,250.10,93.8,B+,44,20,6.8,1367.2
+Gotham_Main,Aerospace Components,2023-08,149000,2,248.60,94.7,A-,45,18,7.1,1389.8
+Gotham_Main,Aerospace Components,2023-09,152000,1,246.90,95.2,A,48,16,7.5,1412.4
+Gotham_Main,Aerospace Components,2023-10,155000,4,251.40,93.1,B+,43,21,6.6,1435.7
+Gotham_Main,Aerospace Components,2023-11,158000,3,249.80,94.0,A-,44,19,6.9,1458.9
+Gotham_Main,Aerospace Components,2023-12,162000,2,247.20,94.9,A-,46,17,7.3,1482.6
+Gotham_Main,Aerospace Components,2024-01,165000,1,245.70,95.4,A,47,16,7.6,1506.2
+Gotham_Main,Aerospace Components,2024-02,168000,2,248.30,94.6,A-,46,18,7.2,1529.8
+Gotham_Main,Aerospace Components,2024-03,172000,1,246.50,95.1,A,48,16,7.5,1554.1
+Gotham_Main,Aerospace Components,2024-04,175000,3,250.80,93.7,B+,44,20,6.8,1578.4
+Gotham_Main,Aerospace Components,2024-05,178000,2,248.90,94.4,A-,45,18,7.1,1602.7
+Gotham_Main,Aerospace Components,2024-06,182000,1,247.10,95.0,A,47,16,7.4,1627.8
+Metropolis_North,Biotech Equipment,2023-01,89000,1,156.80,96.2,A,32,14,8.2,645.3
+Metropolis_North,Biotech Equipment,2023-02,92000,2,158.40,95.7,A-,31,15,8.0,658.7
+Metropolis_North,Biotech Equipment,2023-03,95000,1,157.20,96.5,A,33,13,8.4,672.1
+Metropolis_North,Biotech Equipment,2023-04,98000,3,160.90,95.1,A-,30,16,7.8,685.8
+Metropolis_North,Biotech Equipment,2023-05,101000,1,159.30,96.8,A+,34,12,8.6,699.2
+Metropolis_North,Biotech Equipment,2023-06,104000,2,161.70,95.9,A,32,14,8.1,712.9
+Metropolis_North,Biotech Equipment,2023-07,107000,1,160.50,96.3,A,33,13,8.3,726.4
+Metropolis_North,Biotech Equipment,2023-08,110000,2,162.20,95.6,A-,31,15,7.9,740.1
+Metropolis_North,Biotech Equipment,2023-09,113000,1,161.10,96.7,A+,34,12,8.5,753.7
+Metropolis_North,Biotech Equipment,2023-10,116000,3,164.80,94.9,A-,29,17,7.6,767.8
+Metropolis_North,Biotech Equipment,2023-11,119000,2,163.40,95.8,A,32,14,8.0,781.2
+Metropolis_North,Biotech Equipment,2023-12,122000,1,162.60,96.4,A,33,13,8.2,794.9
+Metropolis_North,Biotech Equipment,2024-01,125000,1,161.90,96.9,A+,35,12,8.7,808.4
+Metropolis_North,Biotech Equipment,2024-02,128000,2,163.70,95.5,A-,31,15,7.8,822.1
+Metropolis_North,Biotech Equipment,2024-03,131000,1,162.30,96.6,A,34,13,8.4,835.8
+Metropolis_North,Biotech Equipment,2024-04,134000,2,164.10,95.7,A-,32,14,8.0,849.6
+Metropolis_North,Biotech Equipment,2024-05,137000,1,163.50,96.8,A+,35,12,8.6,863.2
+Metropolis_North,Biotech Equipment,2024-06,140000,1,162.80,97.0,A+,36,11,8.8,877.1
+Central_City,Applied Sciences,2023-01,67000,2,234.70,92.8,B+,28,22,5.9,892.4
+Central_City,Applied Sciences,2023-02,69000,3,237.20,92.1,B+,26,24,5.6,906.8
+Central_City,Applied Sciences,2023-03,71000,2,235.90,93.2,A-,29,21,6.1,921.3
+Central_City,Applied Sciences,2023-04,73000,4,240.60,91.5,B,25,25,5.4,935.9
+Central_City,Applied Sciences,2023-05,75000,2,238.40,92.9,B+,28,22,5.8,950.6
+Central_City,Applied Sciences,2023-06,77000,3,241.80,92.0,B+,26,24,5.5,965.2
+Central_City,Applied Sciences,2023-07,79000,2,239.70,93.1,A-,29,21,6.0,980.1
+Central_City,Applied Sciences,2023-08,81000,5,244.30,90.8,B,24,26,5.2,994.8
+Central_City,Applied Sciences,2023-09,83000,2,242.10,92.7,B+,27,23,5.7,1009.7
+Central_City,Applied Sciences,2023-10,85000,3,245.60,91.9,B+,26,24,5.4,1024.5
+Central_City,Applied Sciences,2023-11,87000,2,243.80,92.8,B+,28,22,5.8,1039.4
+Central_City,Applied Sciences,2023-12,89000,4,247.20,91.2,B,25,25,5.3,1054.6
+Central_City,Applied Sciences,2024-01,91000,2,245.50,92.6,B+,27,23,5.6,1069.7
+Central_City,Applied Sciences,2024-02,93000,3,248.90,91.8,B+,26,24,5.4,1084.9
+Central_City,Applied Sciences,2024-03,95000,2,246.70,92.9,B+,28,22,5.9,1100.2
+Central_City,Applied Sciences,2024-04,97000,4,250.40,91.1,B,24,26,5.1,1115.7
+Central_City,Applied Sciences,2024-05,99000,2,248.60,92.5,B+,27,23,5.7,1131.1
+Central_City,Applied Sciences,2024-06,101000,3,251.20,91.7,B+,26,24,5.3,1146.8
+Star_City,Construction Materials,2023-01,234000,3,89.40,91.5,B+,52,26,4.8,1890.2
+Star_City,Construction Materials,2023-02,238000,2,88.70,92.1,A-,54,24,5.1,1912.4
+Star_City,Construction Materials,2023-03,242000,4,91.20,90.8,B,50,28,4.6,1934.7
+Star_City,Construction Materials,2023-04,246000,3,90.50,91.7,B+,52,26,4.9,1957.1
+Star_City,Construction Materials,2023-05,250000,2,89.80,92.3,A-,55,23,5.2,1979.8
+Star_City,Construction Materials,2023-06,254000,5,92.60,90.2,B,48,30,4.4,2002.6
+Star_City,Construction Materials,2023-07,258000,3,91.90,91.4,B+,51,27,4.7,2025.5
+Star_City,Construction Materials,2023-08,262000,2,90.70,92.0,A-,54,24,5.0,2048.7
+Star_City,Construction Materials,2023-09,266000,4,93.40,90.6,B,49,29,4.5,2071.9
+Star_City,Construction Materials,2023-10,270000,3,92.80,91.2,B+,51,27,4.8,2095.3
+Star_City,Construction Materials,2023-11,274000,2,91.60,92.2,A-,55,23,5.1,2118.8
+Star_City,Construction Materials,2023-12,278000,5,94.70,89.9,B,47,31,4.3,2142.6
+Star_City,Construction Materials,2024-01,282000,3,93.50,91.0,B+,50,28,4.6,2166.4
+Star_City,Construction Materials,2024-02,286000,2,92.30,91.8,A-,53,25,4.9,2190.5
+Star_City,Construction Materials,2024-03,290000,4,95.10,90.4,B,48,30,4.4,2214.7
+Star_City,Construction Materials,2024-04,294000,3,94.40,91.1,B+,51,27,4.7,2239.1
+Star_City,Construction Materials,2024-05,298000,2,93.20,91.9,A-,54,24,5.0,2263.6
+Star_City,Construction Materials,2024-06,302000,4,96.80,90.1,B,47,31,4.2,2288.4
+Keystone_City,Electronics,2023-01,178000,2,67.30,95.8,A-,38,19,7.6,512.7
+Keystone_City,Electronics,2023-02,182000,1,66.50,96.2,A,40,17,7.9,521.8
+Keystone_City,Electronics,2023-03,186000,3,68.90,95.1,A-,36,21,7.3,530.9
+Keystone_City,Electronics,2023-04,190000,2,68.20,95.7,A-,38,19,7.6,540.1
+Keystone_City,Electronics,2023-05,194000,1,67.40,96.4,A,41,16,8.1,549.4
+Keystone_City,Electronics,2023-06,198000,2,69.10,95.5,A-,37,20,7.4,558.8
+Keystone_City,Electronics,2023-07,202000,3,68.70,95.0,A-,35,22,7.1,568.2
+Keystone_City,Electronics,2023-08,206000,1,67.80,96.1,A,40,17,7.8,577.7
+Keystone_City,Electronics,2023-09,210000,2,69.50,95.4,A-,37,20,7.5,587.3
+Keystone_City,Electronics,2023-10,214000,4,70.20,94.7,A-,34,23,6.9,596.9
+Keystone_City,Electronics,2023-11,218000,2,69.60,95.6,A-,38,19,7.6,606.6
+Keystone_City,Electronics,2023-12,222000,1,68.90,96.0,A,39,18,7.7,616.4
+Keystone_City,Electronics,2024-01,226000,1,68.10,96.5,A,42,16,8.2,626.2
+Keystone_City,Electronics,2024-02,230000,2,69.40,95.3,A-,37,20,7.4,636.1
+Keystone_City,Electronics,2024-03,234000,1,68.60,96.3,A,41,17,8.0,646.1
+Keystone_City,Electronics,2024-04,238000,3,70.80,94.9,A-,35,22,7.0,656.2
+Keystone_City,Electronics,2024-05,242000,2,70.20,95.5,A-,38,19,7.6,666.3
+Keystone_City,Electronics,2024-06,246000,1,69.30,96.1,A,40,17,7.9,676.5

@@ -1,0 +1,76 @@
+Project_ID,Project_Name,Division,Start_Date,Status,Budget_Allocated_M,Budget_Spent_M,Research_Category,Patent_Applications,Commercialization_Potential,Timeline_Adherence_Pct,Lead_Scientist,Security_Classification
+WA-2301,Stealth Aircraft Propulsion,Wayne Aerospace,2023-01-15,Active,85.5,45.2,Propulsion Systems,3,High,78.5,Dr. Sarah Chen,Level 3
+WA-2302,Satellite Defense Grid,Wayne Aerospace,2023-02-20,Active,120.3,68.9,Defense Technology,5,Very High,82.1,Dr. Marcus Webb,Level 4
+WA-2303,Advanced Radar Systems,Wayne Aerospace,2023-03-10,Completed,45.8,41.2,Sensor Technology,2,Medium,89.9,Dr. Elena Rodriguez,Level 2
+WA-2304,Hypersonic Flight Control,Wayne Aerospace,2023-04-05,Active,95.7,52.3,Flight Systems,4,High,75.4,Dr. James Liu,Level 3
+WA-2305,Quantum Navigation,Wayne Aerospace,2023-05-12,Active,78.9,38.7,Navigation,1,Very High,68.2,Dr. Raj Patel,Level 4
+WA-2306,Stealth Coating Materials,Wayne Aerospace,2023-06-18,Active,56.4,29.8,Materials Science,3,High,73.6,Dr. Lisa Zhang,Level 3
+WA-2307,Drone Swarm Intelligence,Wayne Aerospace,2023-07-22,Active,67.2,35.1,AI Systems,2,Very High,71.9,Dr. Ahmed Hassan,Level 3
+WA-2308,Magnetic Levitation Systems,Wayne Aerospace,2023-08-14,Paused,89.6,22.4,Propulsion Systems,1,Medium,25.0,Dr. Nina Volkov,Level 2
+WA-2309,Atmospheric Entry Vehicle,Wayne Aerospace,2023-09-08,Active,112.8,58.6,Spacecraft,4,High,82.7,Dr. Carlos Mendez,Level 3
+WA-2310,Advanced Composite Wings,Wayne Aerospace,2023-10-16,Active,42.3,18.9,Materials Science,2,Medium,69.4,Dr. Yuki Tanaka,Level 2
+WA-2311,Plasma Propulsion Engine,Wayne Aerospace,2023-11-20,Active,134.7,41.2,Propulsion Systems,3,Very High,58.3,Dr. Michael Torres,Level 4
+WA-2312,Orbital Manufacturing Platform,Wayne Aerospace,2023-12-05,Active,156.9,38.4,Space Technology,1,High,42.1,Dr. Anna Kowalski,Level 3
+WA-2401,Next-Gen Fighter Jet,Wayne Aerospace,2024-01-10,Active,245.6,82.3,Aircraft Design,6,Very High,65.2,Dr. Robert Kim,Level 4
+WA-2402,Space Debris Removal,Wayne Aerospace,2024-02-14,Active,73.8,18.5,Space Technology,2,Medium,48.7,Dr. Diana Foster,Level 2
+WA-2403,Anti-Gravity Research,Wayne Aerospace,2024-03-20,Active,198.4,45.6,Theoretical Physics,0,Low,38.9,Dr. Viktor Petrov,Level 5
+WB-2301,Gene Therapy Platform,Wayne Biotech,2023-01-08,Active,92.4,67.8,Genetics,8,Very High,85.3,Dr. Jennifer Adams,Level 2
+WB-2302,Neural Interface Technology,Wayne Biotech,2023-02-15,Active,145.7,89.2,Neuroscience,12,Very High,78.9,Dr. David Park,Level 3
+WB-2303,Cancer Immunotherapy,Wayne Biotech,2023-03-22,Completed,78.9,76.4,Oncology,6,High,96.8,Dr. Maria Santos,Level 2
+WB-2304,Regenerative Medicine,Wayne Biotech,2023-04-12,Active,156.3,98.7,Tissue Engineering,9,Very High,81.4,Dr. Kevin O'Brien,Level 2
+WB-2305,Synthetic Blood Production,Wayne Biotech,2023-05-18,Active,89.7,52.3,Biotechnology,4,High,74.6,Dr. Sophie Laurent,Level 3
+WB-2306,Memory Enhancement Drug,Wayne Biotech,2023-06-25,Active,67.4,38.9,Neuropharmacology,3,Medium,68.2,Dr. Hiroshi Yamamoto,Level 3
+WB-2307,Organ Printing Technology,Wayne Biotech,2023-07-30,Active,198.6,112.4,Bioprinting,7,Very High,79.8,Dr. Emily Watson,Level 2
+WB-2308,Anti-Aging Serum,Wayne Biotech,2023-08-15,Active,124.8,71.5,Longevity Research,5,High,72.1,Dr. Alessandro Rossi,Level 3
+WB-2309,Viral Defense System,Wayne Biotech,2023-09-20,Active,87.2,49.6,Immunology,6,Very High,76.3,Dr. Rachel Green,Level 4
+WB-2310,Biometric Security Scanner,Wayne Biotech,2023-10-28,Active,45.6,28.7,Biometrics,3,Medium,81.7,Dr. Thomas Brown,Level 2
+WB-2311,Nano-Medical Robots,Wayne Biotech,2023-11-15,Active,234.5,89.7,Nanotechnology,4,Very High,52.8,Dr. Fatima Al-Rashid,Level 3
+WB-2312,Enhanced Healing Factor,Wayne Biotech,2023-12-22,Active,165.4,45.2,Regenerative Medicine,2,High,38.9,Dr. Ivan Petrov,Level 4
+WB-2401,Cognitive Enhancement Pill,Wayne Biotech,2024-01-18,Active,98.7,35.4,Neuropharmacology,1,Medium,58.7,Dr. Laura Martinez,Level 3
+WB-2402,Genetic Disease Cure,Wayne Biotech,2024-02-25,Active,278.9,78.6,Gene Therapy,3,Very High,45.2,Dr. Samuel Johnson,Level 2
+WB-2403,Artificial Organ Systems,Wayne Biotech,2024-03-15,Active,189.3,52.8,Bioengineering,5,High,48.9,Dr. Catherine Lee,Level 2
+WAS-2301,Fusion Power Core,Wayne Applied Sciences,2023-01-12,Active,156.8,89.4,Energy Systems,4,Very High,78.2,Dr. Alan Stewart,Level 4
+WAS-2302,Quantum Computer Chip,Wayne Applied Sciences,2023-02-28,Active,234.7,145.2,Quantum Computing,7,Very High,82.6,Dr. Priya Sharma,Level 3
+WAS-2303,Holographic Display,Wayne Applied Sciences,2023-03-18,Completed,67.9,62.1,Display Technology,3,High,91.4,Dr. Georg Mueller,Level 2
+WAS-2304,Smart Materials,Wayne Applied Sciences,2023-04-22,Active,89.5,52.8,Materials Science,5,Medium,74.1,Dr. Zara Khan,Level 2
+WAS-2305,Teleportation Research,Wayne Applied Sciences,2023-05-30,Active,298.4,78.9,Theoretical Physics,1,Low,32.5,Dr. Benjamin Clark,Level 5
+WAS-2306,AI Consciousness Project,Wayne Applied Sciences,2023-06-15,Active,187.6,112.8,Artificial Intelligence,2,Very High,68.9,Dr. Mei Wang,Level 4
+WAS-2307,Force Field Generator,Wayne Applied Sciences,2023-07-20,Active,145.3,67.2,Energy Fields,3,High,63.4,Dr. Jonas Andersson,Level 3
+WAS-2308,Time Dilation Chamber,Wayne Applied Sciences,2023-08-25,Paused,456.7,89.3,Temporal Physics,0,Very Low,19.6,Dr. Helena Kozlov,Level 5
+WAS-2309,Molecular Assembler,Wayne Applied Sciences,2023-09-12,Active,178.9,98.7,Nanotechnology,6,High,72.8,Dr. Omar Farouk,Level 3
+WAS-2310,Cloaking Technology,Wayne Applied Sciences,2023-10-08,Active,267.5,134.2,Optical Systems,4,Very High,69.7,Dr. Isabella Romano,Level 4
+WAS-2311,Neural Network Processor,Wayne Applied Sciences,2023-11-14,Active,98.6,58.9,Computer Hardware,5,High,76.5,Dr. Kwame Asante,Level 2
+WAS-2312,Gravity Manipulation Device,Wayne Applied Sciences,2023-12-19,Active,389.2,89.6,Gravitational Physics,1,Very Low,28.4,Dr. Natasha Volkov,Level 5
+WAS-2401,Quantum Encryption System,Wayne Applied Sciences,2024-01-25,Active,123.7,42.8,Cybersecurity,3,Very High,54.2,Dr. Hassan Al-Mahmoud,Level 3
+WAS-2402,Self-Repairing Metals,Wayne Applied Sciences,2024-02-12,Active,156.4,38.9,Materials Science,2,High,42.6,Dr. Lucy Chen,Level 2
+WAS-2403,Dimensional Portal Research,Wayne Applied Sciences,2024-03-28,Active,567.8,98.3,Theoretical Physics,0,Very Low,21.8,Dr. Erik Johannsen,Level 5
+WC-2301,Smart City Infrastructure,Wayne Construction,2023-01-20,Active,234.6,189.7,Urban Planning,12,Very High,88.4,Dr. Angela Torres,Level 1
+WC-2302,Self-Healing Concrete,Wayne Construction,2023-02-18,Completed,78.9,74.2,Construction Materials,8,High,94.1,Dr. Pierre Dubois,Level 1
+WC-2303,Underground Transportation,Wayne Construction,2023-03-25,Active,456.8,298.4,Transportation,15,Very High,82.7,Dr. Kenji Nakamura,Level 2
+WC-2304,Earthquake-Proof Buildings,Wayne Construction,2023-04-30,Active,189.3,134.7,Structural Engineering,9,High,85.2,Dr. Carmen Rodriguez,Level 1
+WC-2305,Automated Construction Robots,Wayne Construction,2023-05-15,Active,298.7,178.9,Robotics,6,Very High,74.8,Dr. Vladimir Petrov,Level 2
+WC-2306,Energy-Harvesting Roads,Wayne Construction,2023-06-22,Active,345.2,198.6,Energy Systems,11,High,76.3,Dr. Aisha Okonkwo,Level 1
+WC-2307,Vertical Farm Towers,Wayne Construction,2023-07-18,Active,167.4,112.5,Agricultural Technology,7,Medium,79.1,Dr. Marco Silva,Level 1
+WC-2308,Atmospheric Water Generators,Wayne Construction,2023-08-28,Active,134.8,89.2,Water Technology,4,High,73.6,Dr. Sarah Kim,Level 1
+WC-2309,Modular Housing System,Wayne Construction,2023-09-14,Active,223.9,156.7,Housing Technology,8,Very High,82.9,Dr. Ahmed Hassan,Level 1
+WC-2310,Smart Glass Technology,Wayne Construction,2023-10-20,Active,98.4,67.8,Building Materials,5,Medium,78.4,Dr. Nina Kowalski,Level 1
+WC-2311,Underground Waste Processing,Wayne Construction,2023-11-25,Active,278.6,189.3,Waste Management,6,High,81.7,Dr. Robert Chen,Level 2
+WC-2312,Climate Control Domes,Wayne Construction,2023-12-15,Active,567.9,234.5,Environmental Control,9,Very High,58.2,Dr. Elena Petrov,Level 2
+WC-2401,Floating City Platform,Wayne Construction,2024-01-22,Active,789.4,198.7,Marine Engineering,4,Medium,36.8,Dr. Captain Marina Stone,Level 2
+WC-2402,Self-Assembling Structures,Wayne Construction,2024-02-28,Active,345.7,89.6,Smart Materials,3,High,42.1,Dr. Felix Mueller,Level 2
+WC-2403,Orbital Construction Platform,Wayne Construction,2024-03-18,Active,1234.5,234.8,Space Construction,2,Very High,28.9,Dr. Alexandra Volkov,Level 3
+WF-2301,Education AI Tutor,Wayne Foundation,2023-01-10,Completed,45.6,42.3,Educational Technology,2,High,92.8,Dr. Michael Brown,Level 1
+WF-2302,Community Health Monitor,Wayne Foundation,2023-02-14,Active,67.8,52.1,Healthcare Technology,4,Very High,84.7,Dr. Linda Garcia,Level 1
+WF-2303,Poverty Prediction Model,Wayne Foundation,2023-03-20,Active,34.2,28.9,Social Analytics,1,Medium,89.3,Dr. James Wilson,Level 1
+WF-2304,Clean Water Distribution,Wayne Foundation,2023-04-25,Active,89.4,73.6,Water Purification,6,Very High,91.2,Dr. Fatima Al-Zahra,Level 1
+WF-2305,Mental Health Support Bot,Wayne Foundation,2023-05-30,Active,56.7,41.2,AI Psychology,3,High,78.9,Dr. David Kim,Level 1
+WF-2306,Food Security System,Wayne Foundation,2023-06-15,Active,78.9,62.4,Agricultural AI,5,Very High,85.4,Dr. Maria Santos,Level 1
+WF-2307,Disaster Response Network,Wayne Foundation,2023-07-20,Active,123.4,98.7,Emergency Systems,7,Very High,87.6,Dr. Carlos Mendez,Level 2
+WF-2308,Elderly Care Assistant,Wayne Foundation,2023-08-25,Active,45.3,34.7,Healthcare Robotics,2,Medium,82.1,Dr. Sophie Laurent,Level 1
+WF-2309,Language Learning Platform,Wayne Foundation,2023-09-30,Completed,32.1,30.8,Educational AI,1,High,95.9,Dr. Yuki Tanaka,Level 1
+WF-2310,Crime Prevention Analytics,Wayne Foundation,2023-10-15,Active,67.2,48.9,Predictive Analytics,3,Very High,79.8,Dr. Rachel Green,Level 2
+WF-2311,Homeless Support Network,Wayne Foundation,2023-11-20,Active,89.7,67.3,Social Technology,4,High,84.2,Dr. Thomas Brown,Level 1
+WF-2312,Environmental Monitoring,Wayne Foundation,2023-12-10,Active,54.8,38.6,Environmental Science,2,Medium,76.5,Dr. Emily Watson,Level 1
+WF-2401,Digital Literacy Program,Wayne Foundation,2024-01-15,Active,43.2,18.7,Educational Technology,1,High,58.9,Dr. Jennifer Adams,Level 1
+WF-2402,Community Safety Network,Wayne Foundation,2024-02-20,Active,78.6,28.4,Safety Technology,3,Very High,52.3,Dr. Kevin O'Brien,Level 2
+WF-2403,Youth Mentorship AI,Wayne Foundation,2024-03-25,Active,56.9,19.8,Educational AI,2,Medium,47.1,Dr. Diana Foster,Level 1
