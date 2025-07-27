@@ -19,3 +19,9 @@ This project visualizes the performance and current standing of Wayne Enterprise
 
 An integrated article-style summary offers a written snapshot of Wayne Enterprises' overall performance. It interprets data beyond dashboards—translating metrics into business actions. This makes it easy for stakeholders, even without technical expertise, to grasp company-level outcomes.
 ## 🖼️ Screenshots
+<img width="1310" height="735" alt="Screenshot 2025-06-18 235225" src="https://github.com/user-attachments/assets/651af4e1-1b59-4b75-9f2b-53cdb031be7d" />
+
+Overview Dashboard
+<img width="1304" height="732" alt="Screenshot 2025-06-18 235244" src="https://github.com/user-attachments/assets/989310e6-eb2e-4987-95b3-96723211e865" />
+
+Finance Dashboard
