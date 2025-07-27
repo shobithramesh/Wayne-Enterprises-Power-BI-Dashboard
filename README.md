@@ -16,5 +16,6 @@ This project visualizes the performance and current standing of Wayne Enterprise
 - Client-Facing Communication: A detailed walkthrough video and polished summary ensures stakeholders understand the findings, not just the numbers.
 ## 📄 Article
 <img width="792" height="1512" alt="Wayne Enterprises News Paper article" src="https://github.com/user-attachments/assets/de4f25fd-e72e-4e5b-a626-632aea30da0f" />
+
 ### An integrated article-style summary offers a written snapshot of Wayne Enterprises' overall performance. It interprets data beyond dashboards—translating metrics into business actions. This makes it easy for stakeholders, even without technical expertise, to grasp company-level outcomes.
 ## 🖼️ Screenshots
