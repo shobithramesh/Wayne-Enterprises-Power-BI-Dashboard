@@ -1,4 +1,4 @@
-#Wayne-Enterprises-Power-BI-Dashboard 🏢
+#Wayne-Enterprises-Power-BI-Dashboard
 A comprehensive Power BI project designed to empower Wayne Enterprises with actionable insights across five core departments: Finance, HR, Portfolio, Supply Chain, and Security. This solution combines clean analytics with compelling visuals to support real-time decision-making and strategic business improvements.
 ##Project Overview 📊 
 This project visualizes the performance and current standing of Wayne Enterprises across key operational departments. Through executive dashboards and departmental analysis, decision-makers can monitor trends, identify gaps, and act swiftly.
