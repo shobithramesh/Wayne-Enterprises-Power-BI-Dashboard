@@ -40,3 +40,20 @@ An integrated article-style summary offers a written snapshot of Wayne Enterpris
 ## 📹 Presentation Video
 ### 🎥 Watch the Presentation
 - <a href="https://drive.google.com/file/d/1Fx4O0IqC2_2oBF-Wvkj53GwBSYF5K8rl/view?usp=sharing">Watch the Presentation here</a>
+
+## 🔧 Built With
+- Power BI Desktop – For dashboard development
+- Microsoft Excel – For data cleaning and preparation
+- Adobe Photoshop – For article design and visual enhancements
+## 🏆 Business Benefits
+- Improved Decision-Making: Data-backed insights help leaders detect red flags and act quickly.
+- Departmental Efficiency: Visual analytics improve accountability and performance tracking.
+- Stakeholder Clarity: The article summary and presentation ensure that even non-technical stakeholders understand key metrics and action points.
+## 🚀 Get Started
+- Clone or download the project files.
+- Open <a href="https://github.com/shobithramesh/Wayne-Enterprises-Power-BI-Dashboard/blob/main/Wayne%20Enterprises%20Analysis.pbix">WayneEnterprises_Dashboard.pbix</a> in Power BI Desktop.
+- Connect to your data source or use the provided sample data
+- Explore insights and tailor to your organization’s needs.
+## 📬 Let's Talk
+### Need help building BI tools like this for your organization?
+### Feel free to reach out!
