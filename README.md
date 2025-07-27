@@ -19,9 +19,24 @@ This project visualizes the performance and current standing of Wayne Enterprise
 
 An integrated article-style summary offers a written snapshot of Wayne Enterprises' overall performance. It interprets data beyond dashboards—translating metrics into business actions. This makes it easy for stakeholders, even without technical expertise, to grasp company-level outcomes.
 ## 🖼️ Screenshots
+### Overview Dashboard
 <img width="1310" height="735" alt="Screenshot 2025-06-18 235225" src="https://github.com/user-attachments/assets/651af4e1-1b59-4b75-9f2b-53cdb031be7d" />
 
-Overview Dashboard
+### Finance Dashboard
 <img width="1304" height="732" alt="Screenshot 2025-06-18 235244" src="https://github.com/user-attachments/assets/989310e6-eb2e-4987-95b3-96723211e865" />
 
-Finance Dashboard
+### Workforce Dashboard
+<img width="1309" height="728" alt="Screenshot 2025-06-18 235302" src="https://github.com/user-attachments/assets/e0c7ea84-58de-4b4b-80a2-d2df6f6b65c3" />
+
+### R&D Dashboard
+<img width="1305" height="731" alt="Screenshot 2025-06-18 235323" src="https://github.com/user-attachments/assets/856d6822-bb30-40a5-a919-4b15062686ff" />
+
+### Security Dashboard 
+<img width="1294" height="722" alt="Screenshot 2025-06-18 235339" src="https://github.com/user-attachments/assets/1a06b7b0-fd34-4bee-977f-b78644e0ec3f" />
+
+### Supply Chain Dashboard
+<img width="1298" height="710" alt="Screenshot 2025-06-18 235401" src="https://github.com/user-attachments/assets/52b552ae-7d9c-4be5-a887-c94e5db623bd" />
+
+## 📹 Presentation Video
+### 🎥 Watch the Presentation
+- <a href="https://drive.google.com/file/d/1Fx4O0IqC2_2oBF-Wvkj53GwBSYF5K8rl/view?usp=sharing">Watch the Presentation here</a>
